@@ -3,25 +3,25 @@ Hello! I am Pixel8edstudios, a programmer who started coding at the age of 10 an
 
 ## Programming Languages I know:
 
-Bash
-C++
-Python 3.xx
-Python 2.xx
-Anaconda Python 3.xx
-HTML
-CSS
-JS
-Markdown
+Bash  
+C++  
+Python 3.xx  
+Python 2.xx  
+Anaconda Python 3.xx  
+HTML  
+CSS  
+JS  
+Markdown  
 
 ## Other Skills:
 
-I am profecient in OSINT
-I am profecient in Networking technologies
-I am profecient in Wordpress site building
-I am profecient in self-hosted solutions
-I am profecient in Git
-I use Arch btw
-I have a decent amount of knowledge of Linux
+I am profecient in OSINT  
+I am profecient in Networking technologies  
+I am profecient in Wordpress site building  
+I am profecient in self-hosted solutions  
+I am profecient in Git  
+I use Arch btw  
+I have a decent amount of knowledge of Linux  
 
 
 ## Current Projects:
