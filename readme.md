@@ -1,4 +1,4 @@
-Hello! I am Pixel8edstudios, a programmer who started coding at the age of 10 and have continue ever since! I hope to create a business that incorporates my technology skills.
+Hello! I am Pixel8edstudios, a programmer who started coding at the age of 10 and have continued ever since! I hope to create a business that incorporates my technology skills.
 
 
 ## Programming Languages I know:
